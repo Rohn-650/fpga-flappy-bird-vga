@@ -59,8 +59,8 @@ The design is divided into three main modules:
 
 ## Controls 🎯
 
-* **Jump:** Push Button
-* **Restart:** Push Button
+* **Jump:** Push Button [ T18 ]
+* **Restart:** Push Button [ R18 ]
 
 ---
 
@@ -103,6 +103,7 @@ Use onboard buttons for jump and restart control.
 ---
 
 ## Demo 🎥
+
 <img width="480" height="480" alt="Demo" src="https://github.com/user-attachments/assets/16ee59f0-f9d7-4a7c-a75b-a3d94c41097c" />
 
 ---
