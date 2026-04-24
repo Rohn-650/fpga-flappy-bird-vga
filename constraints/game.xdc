@@ -8,11 +8,11 @@ create_clock -period 10.000 [get_ports clk]
 set_property PACKAGE_PIN P16 [get_ports {reset_hw}]
 set_property IOSTANDARD LVCMOS18 [get_ports {reset_hw}]
 
-# Right (BTNR) - Game Restart
+# Right (BTNR) -> Game Restart
 set_property PACKAGE_PIN R18 [get_ports {btn_restart}]
 set_property IOSTANDARD LVCMOS18 [get_ports {btn_restart}]
 
-# Upper (BTNU) - Jump Trigger
+# Upper (BTNU) -> Jump Trigger
 set_property PACKAGE_PIN T18 [get_ports {btn_jump}]
 set_property IOSTANDARD LVCMOS18 [get_ports {btn_jump}]
 
