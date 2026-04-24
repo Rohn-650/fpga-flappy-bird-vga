@@ -1,3 +1,4 @@
+
 module bird_top (
     input  wire clk,
     input  wire reset_hw,
